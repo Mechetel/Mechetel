@@ -88,7 +88,6 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
   </a>
 </div>
-<br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <a href="https://github.com/Mechetel/airplanner" title="Airplanner" style="flex: 1 1 45%; margin: 10px; min-width: 300px;">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=airplanner&theme=react&border_color=61dafb&border_radius=10">
