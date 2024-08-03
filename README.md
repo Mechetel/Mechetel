@@ -29,7 +29,6 @@
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35" />
@@ -58,7 +57,6 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -82,7 +80,6 @@
 <hr>
 
 <h2 align="center"> Repositories </h2>
-<br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <a href="https://github.com/Mechetel/dotfiles" title="Dotfiles" style="flex: 1 1 45%; margin: 10px; min-width: 300px;">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dotfiles&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
@@ -91,7 +88,7 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <a href="https://github.com/Mechetel/airplanner" title="Airplanner" style="flex: 1 1 45%; margin: 10px; min-width: 300px;">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=airplanner&theme=react&border_color=61dafb&border_radius=10">
@@ -100,8 +97,7 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=stego-metrics&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-
+<br/>
 
 <h4 align="center">
   <a href="https://github.com/Mechetel?tab=repositories" title="Show Repositories"> Show More </a>
