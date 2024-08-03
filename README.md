@@ -6,25 +6,75 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/dmitry-khoma-5355881ab" title="LinkedIn Profile">LinkedIn</a></code>
+  <code><a href="https://www.scopus.com/authid/detail.uri?authorId=58101004100" title="Elsevier Profile">Elsevier</a></code>
+  <code><a href="https://scholar.google.com/citations?user=4nfOsdIAAAAJ" title="Google Scholar Profile">Google Scholar</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Dmytro Khoma, Ruby on Rails Software Developer from Ukraine
+  <br>
+  <br>
+  🔬 I'm currently in a PhD studies program at Donetsk National Technical University (DonNTU), Department of Computer Science
+  <br>
+  🎓 I graduated my Master's degree from DonNTU, Department of Computer Science 
+  <br>
+  💻 I love writing Ruby code and learn anythings about it
+  <br>
+  📚 I’m currently learning Steganopraphy approaches using GAN
+  <br>
+  📫 How to reach me: <a href="mailto: dima.homa5@gmail.com">dima.homa5@gmail.com</a>
+</p>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35" height="35" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="35" height="35" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="35" height="35" /> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="35" height="35" />
+</p>
+<hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Mechetel&theme=react&border=61dafb&hide_border=true" alt="Mechetel" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Mechetel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechetel&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img align="center" width=600 src="https://streak-stats.demolab.com/?user=Mechetel&theme=react&border=61dafb&hide_border=true" alt="Mechetel" />
     </a>
   </div>
   <br>
-
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=Mechetel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechetel&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mechetel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
