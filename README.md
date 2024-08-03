@@ -8,3 +8,5 @@
 
 ### My Dotfiles
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dotfiles&bg_color=FFFFFF00&hide_border=true&theme=dark)](https://github.com/Mechetel/dotfiles)
+### Magesty Work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&bg_color=FFFFFF00&hide_border=true&theme=dark)](https://github.com/Mechetel/dFace)
