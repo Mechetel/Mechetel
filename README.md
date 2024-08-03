@@ -83,32 +83,21 @@
 
 <h2 align="center"> Repositories </h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Mechetel/dotfiles" title="Dotfiles">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dotfiles&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Mechetel/dFace" title="dFace">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <a href="https://github.com/Mechetel/dotfiles" title="Dotfiles" style="flex: 1 1 45%; margin: 10px; min-width: 300px;">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dotfiles&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dotfiles&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
   </a>
   <a href="https://github.com/Mechetel/dFace" title="dFace" style="flex: 1 1 45%; margin: 10px; min-width: 300px;">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
   </a>
 </div>
-
-
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Mechetel/airplanner" title="Airplanner">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <a href="https://github.com/Mechetel/airplanner" title="Airplanner" style="flex: 1 1 45%; margin: 10px; min-width: 300px;">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=airplanner&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/Mechetel/stego-metrics" title="Steganography Metrics Calculation">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=stego-metrics&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Mechetel/stego-metrics" title="Steganography Metrics Calculation" style="flex: 1 1 45%; margin: 10px; min-width: 300px;">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=stego-metrics&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
