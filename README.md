@@ -6,9 +6,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Mechetel&hide_border=true&background=FFFFFF00&theme=dark#gh-dark-mode-only">
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Mechetel/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dotfiles&bg_color=FFFFFF00&hide_border=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Mechetel/dFace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&bg_color=FFFFFF00&hide_border=true&theme=dark" />
 </a>
