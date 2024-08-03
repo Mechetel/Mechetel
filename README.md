@@ -16,9 +16,9 @@
   Hi, I'm Dmytro Khoma, Ruby on Rails Software Developer from Ukraine
   <br>
   <br>
-  🔬 I'm currently in a PhD studies program at Donetsk National Technical University (DonNTU), Department of Computer Science 122
+  🔬 I'm currently in a PhD studies program at Donetsk National Technical University (DonNTU), Computer Science Department 122
   <br>
-  🎓 I graduated my Master's degree from DonNTU, Department of Software Engeneering 121 
+  🎓 I graduated my Master's degree from DonNTU, Software Engeneering Department 121 
   <br>
   💻 I love writing Ruby code and learn anythings about it
   <br>
