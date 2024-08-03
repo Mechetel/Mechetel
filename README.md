@@ -6,9 +6,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Mechetel&hide_border=true&background=FFFFFF00&theme=dark#gh-dark-mode-only">
 </p>
 
-<p align="center">
+<div align="center">
   ### My Dotfiles
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dotfiles&bg_color=FFFFFF00&hide_border=true&theme=dark)](https://github.com/Mechetel/dotfiles)
   ### Magesty Work
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mechetel&repo=dFace&bg_color=FFFFFF00&hide_border=true&theme=dark)](https://github.com/Mechetel/dFace)
-</p>
+</div>
