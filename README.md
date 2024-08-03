@@ -68,10 +68,10 @@
   <br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=Mechetel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" height=180 src="https://github-readme-stats.vercel.app/api?username=Mechetel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechetel&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img align="right" height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechetel&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br><br><br><br>
