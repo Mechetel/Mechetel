@@ -9,7 +9,10 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/dmytro-khoma-5355881ab/" title="LinkedIn Profile">LinkedIn</a></code>
   <code><a href="https://www.scopus.com/authid/detail.uri?authorId=58101004100" title="Elsevier Profile">Elsevier</a></code>
+  <code><a href="https://www.webofscience.com/wos/author/record/KBB-9966-2024" title="Web of Science Profile">Web of Science</a></code>
   <code><a href="https://scholar.google.com/citations?user=4nfOsdIAAAAJ" title="Google Scholar Profile">Google Scholar</a></code>
+  <code><a href="https://www.researchgate.net/profile/Dmytro-Khoma-2" title="ResearchGate Profile">ResearchGate</a></code>
+  <code><a href="https://independent.academia.edu/DmitryKhoma" title="Academia Profile">Academia</a></code>
 </h5>
 <br>
 <p align="center">
