@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/dmitry-khoma-5355881ab" title="LinkedIn Profile">LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/dmytro-khoma-5355881ab/" title="LinkedIn Profile">LinkedIn</a></code>
   <code><a href="https://www.scopus.com/authid/detail.uri?authorId=58101004100" title="Elsevier Profile">Elsevier</a></code>
   <code><a href="https://scholar.google.com/citations?user=4nfOsdIAAAAJ" title="Google Scholar Profile">Google Scholar</a></code>
 </h5>
